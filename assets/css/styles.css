@@ -167,6 +167,7 @@ img {
 .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-medium);
+  font: 1em sans-serif;
 }
 .nav__logo:hover {
   color: var(--first-color);
